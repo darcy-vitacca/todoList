@@ -13,6 +13,8 @@ export const Task = ({ text, removeTask, id }) => {
   );
 };
 
+//test
+
 export const styles = StyleSheet.create({
   container: {
     backgroundColor: "#fff",
